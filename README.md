@@ -181,7 +181,7 @@ Core entities have no association with JPA and are never annotated with @Entity.
 
 ![image](https://raw.githubusercontent.com/arivan-amin/Spring-Clean-Microservices/master/Docs/Grafana/Grafana-Dashboard-1.png)
 
-## 🚀 Installation Guide
+## Installation Guide
 
 ### Prerequisites
 
@@ -250,7 +250,7 @@ Core entities have no association with JPA and are never annotated with @Entity.
 
 ---
 
-## 🧪 Testing
+## Testing
 
 - **Run Unit and Integration Tests:**
    ```bash
@@ -259,7 +259,7 @@ Core entities have no association with JPA and are never annotated with @Entity.
 
 ---
 
-## ⚙️ Microservices Overview
+## Microservices Overview
 
 - **Discovery Server**: Dynamic service discovery and registry.
 - **API Gateway**: Centralized entry point for routing and security.
@@ -271,20 +271,20 @@ Core entities have no association with JPA and are never annotated with @Entity.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Fork the repository, create a new branch, and submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more
 details.
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or inquiries:
 
