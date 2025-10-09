@@ -1,11 +1,17 @@
 # Learning Management System (LMS) Microservices with Spring Boot
 
+# Development Status
+
+## Still in early development, no passing version available yet
+
+---
+
 ## Overview
 
 This is a **LMS Microservices Back-End** using **Java** and **Spring Boot** following
 **Clean Architecture** and **SOLID Principles**.
 
-It serves as a demonstration of implementation of microservices following some of the
+It serves as a demonstration of the implementation of microservices following some of the
 best development practices.
 
 ---
