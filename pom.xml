@@ -56,6 +56,7 @@
 
     <modules>
         <module>Core</module>
+        <module>Testing</module>
     </modules>
 
     <dependencies>
@@ -215,7 +216,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>scm-${project.artifactId}</finalName>
+        <finalName>lms-${project.artifactId}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -266,7 +267,7 @@
                         <image>bellsoft/liberica-openjre-alpine:21</image>
                     </from>
                     <to>
-                        <image>arivanamin/scm-${project.artifactId}</image>
+                        <image>arivanamin/lms-${project.artifactId}</image>
                     </to>
                 </configuration>
                 <executions>
