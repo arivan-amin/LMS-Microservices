@@ -57,6 +57,7 @@
     <modules>
         <module>Core</module>
         <module>Testing</module>
+        <module>Outbox-Storage</module>
     </modules>
 
     <dependencies>
