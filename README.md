@@ -16,7 +16,6 @@ best development practices.
 
 ---
 
-
 ## Quick Info
 
 ![Java](https://img.shields.io/badge/java-21-brightgreen)
