@@ -58,6 +58,7 @@
         <module>Core</module>
         <module>Testing</module>
         <module>Outbox-Storage</module>
+        <module>Discovery-Server</module>
     </modules>
 
     <dependencies>
