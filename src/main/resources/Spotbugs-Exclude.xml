@@ -1,0 +1,17 @@
+<FindBugsFilter>
+    <Match>
+        <Bug pattern="EI_EXPOSE_REP" />
+    </Match>
+    <Match>
+        <Bug pattern="EI_EXPOSE_REP2" />
+    </Match>
+    <Match>
+        <Bug pattern="MS_OOI_PKGPROTECT" />
+    </Match>
+    <Match>
+        <Bug pattern="HSM_HIDING_METHOD" />
+    </Match>
+    <Match>
+        <Bug pattern="THROWS_METHOD_THROWS_RUNTIMEEXCEPTION" />
+    </Match>
+</FindBugsFilter>
