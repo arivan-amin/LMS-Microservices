@@ -59,6 +59,7 @@
         <module>Testing</module>
         <module>Outbox-Storage</module>
         <module>Discovery-Server</module>
+        <module>Api-Gateway</module>
     </modules>
 
     <dependencies>
